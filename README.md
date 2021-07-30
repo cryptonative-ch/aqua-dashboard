@@ -1,2 +1,2 @@
-# mesa-dashboard
-dashboard for IDO Projects
+# Aqua Dashboard
+Dashboard for IDO Projects
